@@ -1,0 +1,10 @@
+{
+  "type": "Plugin",
+  "name": "Afterburner & RTSS Variables (INT only)",
+  "author": "Your Name",
+  "repository": "",
+  "packageId": "User.AfterburnerRtss",
+  "version": "1.0.6",
+  "target-plugin-api-version": 32,
+  "dll": "User.AfterburnerRtss.dll"
+}
