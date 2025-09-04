@@ -1,0 +1,9 @@
+﻿{
+  "type": "Plugin",
+  "name": "AfterburnerRtss",
+  "author": "User",
+  "packageId": "User.AfterburnerRtss",
+  "version": "1.0.6-dev",
+  "target-plugin-api-version": 32,
+  "dll": "User.AfterburnerRtss.dll"
+}
